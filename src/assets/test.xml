@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChungTu>
+    <DuLieuChungTu>
+        <feeAccount>27910001715566</feeAccount>
+        <so_tien></so_tien>
+        <so_tien></so_tien>
+        <ngay_tao></ngay_tao>
+        <don_vi></don_vi>
+        <nguoi_de_nghi></nguoi_de_nghi>
+        <mo_ta></mo_ta>
+        <so_hoa_don></so_hoa_don>
+        <scheduleDate />
+        <transCount>1</transCount>
+        <transID>EVN869848</transID>
+        <records>
+            <record>
+                <paymentSerialNumber>1</paymentSerialNumber>
+                <transType>ou</transType>
+                <paymentType />
+                <senderBankId>01202030</senderBankId>
+                <senderBranchId>01202030</senderBranchId>
+                <senderAcctId>27910001715566</senderAcctId>
+                <senderAcctName>yentt</senderAcctName>
+                <senderAddr />
+                <recvBankId>01201001</recvBankId>
+                <recvBranchId>01201012</recvBranchId>
+                <recvBankName>NH Cong thuong VN (Vietinbank)</recvBankName>
+                <recvAcctId>114000001201</recvAcctId>
+                <recvAcctName>CT VIEN THONG DIEN LUC VA CNTT CN TAP DOAN DIEN LUC VN</recvAcctName>
+                <documentId />
+                <placeofIssue />
+                <iDIssuanceDate />
+                <amount>222200</amount>
+                <currencyCode>VND</currencyCode>
+                <feeType>BEN</feeType>
+                <remark1>THUYVCBVTB231221L01</remark1>
+                <remark2>THUYVCBVTB231221L01</remark2>
+                <purposeCode>1</purposeCode>
+                <beneficiaryNickName />
+                <recvAddrLine1 />
+                <recvAddrLine2 />
+            </record>
+        </records>
+    </DuLieuChungTu>
+    <DanhSachNguoiKy>
+        <NguoiLap/>
+        <KeToanTruong/>
+        <ThuTruongCoQuan/>
+    </DanhSachNguoiKy>
+</ChungTu>
